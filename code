@@ -12,7 +12,7 @@ public class Main
     System.out.println("Enter a number:");
     num = input.nextInt();
 
-    //If number is divisible by 2 then it's an even number
+    //If number is divisible by 2 then it's an even num
     //else odd number
     if ( num % 2 == 0 )
         System.out.println("The entered number is even");
